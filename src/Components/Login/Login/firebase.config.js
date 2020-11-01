@@ -1,10 +1,11 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyDxB_8qaFGRzHSjbiFzmpndxNXKUrumYaA",
-    authDomain: "burj-al-arab-a6414.firebaseapp.com",
-    databaseURL: "https://burj-al-arab-a6414.firebaseio.com",
-    projectId: "burj-al-arab-a6414",
-    storageBucket: "burj-al-arab-a6414.appspot.com",
-    messagingSenderId: "577269297641",
-    appId: "1:577269297641:web:ee72628c1a80a9c1545b78"
-  };
+  apiKey: "AIzaSyB_960cv_mnbXMiUR4716RWRP7AXvsB3jk",
+  authDomain: "doctors-portal-d1dea.firebaseapp.com",
+  databaseURL: "https://doctors-portal-d1dea.firebaseio.com",
+  projectId: "doctors-portal-d1dea",
+  storageBucket: "doctors-portal-d1dea.appspot.com",
+  messagingSenderId: "381375418155",
+  appId: "1:381375418155:web:382c3c821e6620aea2ff6e",
+  measurementId: "G-1JXJV9ZZVF"
+};
   export default firebaseConfig;
